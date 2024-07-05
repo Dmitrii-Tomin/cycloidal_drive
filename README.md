@@ -20,7 +20,7 @@ Video: [Cycloidal Drive in Action](https://youtube.com/shorts/xXizu3-S0T4)
 
 ## Introduction
 
-Welcome to the 3D Printed Cycloidal Drive project! This project provides the design files and instructions to create a fully functional cycloidal drive using 3D printing technology. Cycloidal drives are known for their high torque and precision, making them ideal for various applications in robotics and automation.
+Welcome to the 3D Printed Cycloidal Drive project! This project provides the design files and instructions to create a fully functional model of a cycloidal drive using 3D printing technology. This model demonstrates the inner workings of a cycloidal drive, showcasing its high torque and precision, making it an excellent tool for educational purposes, as well as for applications in robotics and automation.
 
 ## Features
 
