@@ -32,27 +32,7 @@ Welcome to the 3D Printed Cycloidal Drive project! This project provides the des
 
 ## Bill of Materials
 
-- **8 608 bearings:** 8x22x7 mm.
-- **20 M4 screws 20mm:** flat head
-- **10 M4 screws 15mm:** flat head
-- **6 M3 screws 20mm:** flat head
-- **4 M3 screws 40mm:** flat head
-- **16 M3 nuts**
-- **12 M3 grub screws:** recommended - 6mm
-- **2 aluminium rods:** 8mm * 150mm (input) and 8mm * 100mm (output)
-- **2 brass rods:** 4mm * 150mm
-- **Grease**
-- **3D printed parts:**
-  - **Cycloidal Disk 1**
-  - **Cycloidal Disk 2**
-  - **Output Shaft**
-  - **Input Shaft**
-  - **Bearing Housing**
-  - **Eccentric Cam**
-  - **Eccentric Bearing Holder**
-  - **Base Plate**
-  - **Cover Plate**
-  - **Spacer**
+
 
 ## Installation
 
