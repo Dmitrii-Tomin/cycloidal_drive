@@ -1,11 +1,10 @@
 # 3D Printed Cycloidal Drive
 
-![1000013053](https://github.com/Dmitrii-Tomin/cycloidal_drive/assets/83939750/21fbcc61-00fc-4b1f-b4b0-e460dd22b724)
-
-![1000013056](https://github.com/Dmitrii-Tomin/cycloidal_drive/assets/83939750/b229df67-298d-4d7b-8ee3-9ef7f0c8b8bb)
+![1000013053](https://github.com/Dmitrii-Tomin/cycloidal_drive/assets/83939750/7c34e9cf-ec07-4540-9f4c-e8ff1ee39854)
 
 
-![Cycloidal Drive Animation](./images/cycloidal_drive_animation.gif)
+![1000013056](https://github.com/Dmitrii-Tomin/cycloidal_drive/assets/83939750/7056bf63-8637-4f56-a6c2-e56981430d88)
+
 
 Video: [Cycloidal Drive in Action](https://youtube.com/shorts/xXizu3-S0T4)
 
