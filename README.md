@@ -1,9 +1,9 @@
 # 3D Printed Cycloidal Drive
 
-![1000013053](https://github.com/Dmitrii-Tomin/cycloidal_drive/assets/83939750/7c34e9cf-ec07-4540-9f4c-e8ff1ee39854)
+![1000013053](https://github.com/Dmitrii-Tomin/cycloidal_drive/assets/83939750/a9333dfe-bdec-4a49-9772-51458e330c09)
 
+![1000013056](https://github.com/Dmitrii-Tomin/cycloidal_drive/assets/83939750/8f620009-5a4d-425b-9bd6-8746714424e8)
 
-![1000013056](https://github.com/Dmitrii-Tomin/cycloidal_drive/assets/83939750/7056bf63-8637-4f56-a6c2-e56981430d88)
 
 
 ## Table of Contents
