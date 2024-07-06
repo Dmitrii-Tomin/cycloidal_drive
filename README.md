@@ -47,7 +47,9 @@ Welcome to the 3D Printed Cycloidal Drive project! This project provides the des
 - **1 motor_coupler**
 - **1 775_motor_mount**
 
-- **38 bearing_top&bottom_spacer_4mm + bearing_middle_spacer_4mm + 38 bearing_sleeve** (allow thin walls or print with smaller nozzle) **(for 4mm pins)** OR **38 bearing_top&bottom_spacer_5mm + bearing_middle_spacer_5mm** (for 5mm pins). _Explanation in assembly guide_
+- **38 bearing_top&bottom_spacer_4mm + bearing_middle_spacer_4mm + 38 bearing_sleeve** (allow thin walls or print with smaller nozzle) **(for 4mm pins)**
+- OR
+- **38 bearing_top&bottom_spacer_5mm + bearing_middle_spacer_5mm** (for 5mm pins). _Explanation in assembly guide_
 
 - **2 6808 bearings**: 40mm * 52mm * 7mm
 - **4 6802 bearings**: 15mm * 24mm * 5mm
