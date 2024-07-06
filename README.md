@@ -74,7 +74,7 @@ Welcome to the 3D Printed Cycloidal Drive project! This project provides the des
 
 ### Preparation
 
-1. Download the STL files from the `cycloidal_drive_parts.zip` file or from [Printables](https://www.printables.com/model/928009-cycloidal-drive).
+1. Download the STL files from the `cycloidal_drive_parts.zip` file or from [Printables](https://www.printables.com/model/933978-cycloidal-drive).
 2. Use your preferred slicing software to prepare the files for your 3D printer.
 
 ### Print
