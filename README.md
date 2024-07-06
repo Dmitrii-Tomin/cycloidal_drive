@@ -31,6 +31,40 @@ Welcome to the 3D Printed Cycloidal Drive project! This project provides the des
 
 ## Bill of Materials
 
+- **1 shaft_top**
+- **2 eccentric_cam**
+- **1 shaft_bottom**
+- **2 spacer_0.8mm**
+- **1 spacer_1mm**
+- **2 cycloidal_disc**
+- **1 output_plate**
+- **1 bottom_plate**
+- **5 screw_sleeve**
+- **10 output_bearing_top&bottom_spacer**
+- **5 output_bearing_middle_spacer**
+- **1 housing_top** OR **1 top_spacer + 1 acryl_top(cnc cut) + 19 top_plate_rod_sleeve_(4mm/5mm)**
+- **1 housing**
+- **1 motor_coupler**
+- **1 775_motor_mount**
+
+- **38 bearing_top&bottom_spacer_4mm + bearing_middle_spacer_4mm + 38 bearing_sleeve** (allow thin walls or print with smaller nozzle) **(for 4mm pins)** OR **38 bearing_top&bottom_spacer_5mm + bearing_middle_spacer_5mm** (for 5mm pins). _Explanation in assembly guide_
+
+- **2 6808 bearings**: 40mm * 52mm * 7mm
+- **4 6802 bearings**: 15mm * 24mm * 5mm
+- **48 685 sealed bearings**: 5mm * 11mm * 5mm (sealed, because they are 5mm thick)
+- **10 M4 heat set inserts**: 7*7 mm
+- **22-31 M3 heat set inserts**: 5*5 mm
+- **2 M3 screws**: 30mm socket head
+- **12-21 M3 screws**: 20mm flathead
+- **5 M3 screws**: 15mm flathead
+- **5 M3 screws**: 10mm flathead
+- **4 M4 Screws**: 30mm flathead
+- **2 M4 Screws**: 12mm flathead
+- **2 M3 nuts**
+- **2 M3 grub screws**: 6mm 
+- **19 37-40mm length 4/5mm diameter pins**: download files accordingly
+- **1 775 Motor**
+- Optionally [speed controller](https://www.amazon.com/Motor-Controller-Enmja-Adjustable-Regulator/dp/B09Q2QVWVX/ref=sr_1_13?crid=1UKTLSA73BUMS&dib=eyJ2IjoiMSJ9.9mfXQJdqCB3etkVKhtQxWOMFLP4qqFwMqV3mMa5kvUn4mScqkyHxMxdrVKTxAFOOFdvvVMab61omUSPOPJ4jTDmy5zJBo3t0eZDCRdL8X7dVLa5fmaXwMXWuHNwUsevM6sMZlyfUWfndNbSEoGFPCD4wMzjMdPuUGP9rKrPDM36wDLGE_365YusdXz4umGa8u1uCgjMxV6PSSFpRmtYTFHBXT8_sxKAwPc9whJfNiqY.hutWc2XKp4LfPMPED0a-1KTxaFr59BxOYvu4DkvV-7w&dib_tag=se&keywords=dc+motor+speed+controller+12v&qid=1720247454&sprefix=dc+motor+spee%2Caps%2C187&sr=8-13) so you can use it as a display
 
 
 ## Installation
