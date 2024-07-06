@@ -6,8 +6,6 @@
 ![1000013056](https://github.com/Dmitrii-Tomin/cycloidal_drive/assets/83939750/7056bf63-8637-4f56-a6c2-e56981430d88)
 
 
-Video: [Cycloidal Drive in Action](https://youtube.com/shorts/xXizu3-S0T4)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -81,8 +79,8 @@ Welcome to the 3D Printed Cycloidal Drive project! This project provides the des
 
 3. Recommended print settings:
    - Layer height: 0.2mm
-   - Infill: 50%
-   - Supports: Yes (where necessary)
+   - Infill: 25%
+   - Supports: No
 4. Print the parts using PLA, PETG, or any other durable filament of your choice.
 
 ### Assemble
