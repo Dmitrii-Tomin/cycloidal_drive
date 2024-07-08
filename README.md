@@ -5,7 +5,7 @@
 ![1000013056](https://github.com/Dmitrii-Tomin/cycloidal_drive/assets/83939750/8f620009-5a4d-425b-9bd6-8746714424e8)
 
 video: https://www.youtube.com/shorts/Qj48UrXv0fc
-
+https://photos.app.goo.gl/fQSRLw8RXpxP6B3X7
 ## Table of Contents
 
 - [Introduction](#introduction)
