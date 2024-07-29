@@ -1,4 +1,4 @@
-# 3D Printed Cycloidal Drive
+# 3D Printed Cycloidal Drive - 18:1
 
 ![1000013053](https://github.com/Dmitrii-Tomin/cycloidal_drive/assets/83939750/a9333dfe-bdec-4a49-9772-51458e330c09)
 
