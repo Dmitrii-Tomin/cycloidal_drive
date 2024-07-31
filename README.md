@@ -55,12 +55,12 @@ Welcome to the **3D Printed Cycloidal Drive** project! This project provides the
 - **48 685 sealed bearings**: 5mm * 11mm * 5mm (sealed, because they are 5mm thick)
 - **10 M4 heat set inserts**: 7*7 mm
 - **22-31 M3 heat set inserts**: 5*5 mm
-- **2 M3 screws**: 30mm socket head
-- **12-21 M3 screws**: 20mm flathead
-- **5 M3 screws**: 15mm flathead
-- **5 M3 screws**: 10mm flathead
-- **4 M4 Screws**: 30mm flathead
-- **2 M4 Screws**: 12mm flathead
+- **2 M3 bolts**: 30mm socket head
+- **12-21 M3 bolts**: 20mm flathead
+- **5 M3 bolts**: 15mm flathead
+- **5 M3 bolts**: 10mm flathead
+- **4 M4 bolts**: 30mm flathead
+- **2 M4 bolts**: 12mm flathead
 - **2 M3 nuts**
 - **2 M3 grub screws**: 6mm 
 - **19 37-40mm length 4/5mm diameter pins**: download files accordingly
