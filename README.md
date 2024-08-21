@@ -40,7 +40,7 @@ Welcome to the **3D Printed Cycloidal Drive** project! This project provides the
 - **5 screw_sleeve**
 - **10 output_bearing_top&bottom_spacer**
 - **5 output_bearing_middle_spacer**
-- **1 housing_top** OR **1 top_spacer + 1 acryl_top(cnc cut) + 19 top_plate_rod_sleeve_(4mm/5mm)**
+- **1 housing_top_(4mm/5mm)** OR **1 top_spacer + 1 acryl_top(cnc cut) + 19 top_plate_rod_sleeve_(4mm/5mm)**
 - **1 housing**
 - **1 motor_coupler**
 - **1 775_motor_mount**
